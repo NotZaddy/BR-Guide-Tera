@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "BR-Guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/NotZaddy/BR-Guide/master/"],
+    "name": "BR-Guide-master",
+    "description": "Description goes here."
+}
